@@ -40,9 +40,12 @@
   "peerDependencies": {
     "react": "^15.0.0"
   },
+  "resolutions": {
+    "graceful-fs": "^4.2.11"
+  },
   "dependencies": {
     "fbjs": "^0.8.8",
     "linebreak": "^0.3.0",
-    "scroller": "git://github.com/mjohnston/scroller"
+    "scroller": "https://github.com/mjohnston/scroller"
   }
 }
